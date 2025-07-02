@@ -4,7 +4,7 @@ Welcome to the official repository for the Educait Inter-High School Sports Anal
 
 ## About the Hackathon
 
-The Educait Hackathon brings together high school students to explore how AI and data analytics can revolutionize sports analytics. With support from the Zimbabwe Football Association (ZIFA), participants will dive into English Premier League data to uncover insights that could transform how teams identify talent and make strategic decisions.
+The Educait Hackathon brings together students to explore how AI and data analytics can revolutionize sports analytics. With support from the Zimbabwe Football Association (ZIFA), participants will dive into English Premier League data to uncover insights that could transform how teams identify talent and make strategic decisions.
 
 ## Getting Started
 
